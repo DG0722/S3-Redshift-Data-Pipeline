@@ -13,8 +13,7 @@ Created a virtual environment in WSL. It will keep its libraries and dependencie
 2.2 Loading data from staging tables to Fact table.<br>
 2.3 Loading data from staging tables to Dimension table.<br>
 2.4 Performing data quality checks.<br>
-#### 3. Automate the whole process using Airflow.
-![image](https://github.com/jdenggao/S3-Redshift-Data-Pipeline/assets/112433825/8e2a98a3-cf9a-4fb2-a26e-21d8bd78c627)
+
 ### Technologies Used
 Python <br>
 configparser <br>
